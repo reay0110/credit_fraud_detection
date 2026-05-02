@@ -1,0 +1,16 @@
+# Dataset (too large for GitHub)
+creditcard.csv
+archive.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
